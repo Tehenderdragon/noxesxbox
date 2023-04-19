@@ -1,11 +1,11 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.custom{
-    background: url(base.png);
+    background: url(base1.png);
     height: 630px;
     width: 750px;
 }
 .custom.white{
-    background: url(base.png);
+    background: url(base1.png);
 }
 .custom.disconnected {
     display: none;
